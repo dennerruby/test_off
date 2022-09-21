@@ -28,7 +28,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[denneruby]/test_off.
+Bug reports and pull requests are welcome on GitHub at https://github.com/dennerruby/test_off.
 
 ## License
 
